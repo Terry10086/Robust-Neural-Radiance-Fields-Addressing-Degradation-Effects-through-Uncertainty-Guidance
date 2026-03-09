@@ -1,0 +1,2 @@
+Requirement already satisfied: torch in /home/yangtongyu/software/anaconda3/envs/neus/lib/python3.8/site-packages (1.12.1)
+Requirement already satisfied: typing_extensions in /home/yangtongyu/software/anaconda3/envs/neus/lib/python3.8/site-packages (from torch) (4.7.1)
